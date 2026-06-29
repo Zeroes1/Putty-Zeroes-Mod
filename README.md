@@ -1,7 +1,5 @@
 # Putty-Zeroes-Mod
-Putty Zeroes Mod from modern version putty
-
-Zeroes Mod Putty it's original latest Putty +
+Zeroes Mod Putty it's original latest Putty plus
 
 Features:<br>
 Far2l extension<br>
