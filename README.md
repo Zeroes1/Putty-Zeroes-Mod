@@ -13,7 +13,7 @@ Fix Modern Standby<br>
 better use together with WinSSHTerm!
 https://winsshterm.blogspot.com
 
-Original code/idea from:
+Original code/idea from:<br>
 https://github.com/ivanshatsky/putty4far2l<br>
 https://github.com/unxed/putty4far2l<br>
 https://github.com/cyd01/KiTTY<br>
