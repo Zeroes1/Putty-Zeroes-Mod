@@ -5,7 +5,7 @@ Features:<br>
 Far2l extension<br>
 OSC52 support [dynamic buffer always ON]<br>
 Auto-login password<br>
-Change font size with CTRL[Shift]+MOUSEWHEEL<br>
+Smooth scroll<br>
 Fix Modern Standby<br>
 
 better use together with WinSSHTerm!
