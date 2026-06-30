@@ -4,7 +4,7 @@ Zeroes Mod Putty it's original latest Putty plus
 Features:<br>
 Far2l extension<br>
 OSC52 support with dynamic buffer<br>
-Auto-login password<br>
+Auto-login password [save without encode!]<br>
 Smooth scroll<br>
 Fix Modern Standby<br>
 Change font size with CTRL[Shift]+MOUSEWHEEL<br>
