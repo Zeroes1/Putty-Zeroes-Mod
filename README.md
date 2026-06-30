@@ -3,10 +3,12 @@ Zeroes Mod Putty it's original latest Putty plus
 
 Features:<br>
 Far2l extension<br>
-OSC52 support [dynamic buffer always ON]<br>
+OSC52 support with dynamic buffer<br>
 Auto-login password<br>
 Smooth scroll<br>
 Fix Modern Standby<br>
+Change font size with CTRL[Shift]+MOUSEWHEEL<br>
+Portable Mode [putty -export-to-ini]<br>
 
 better use together with WinSSHTerm!
 https://winsshterm.blogspot.com
