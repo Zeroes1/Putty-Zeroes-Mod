@@ -1,7 +1,7 @@
 # Putty-Zeroes-Mod
 Zeroes Mod Putty it's modified original latest Putty
 
-+ Features:<br>
+additional Features:<br>
 Far2l extension<br>
 OSC52 support with dynamic buffer<br>
 Auto-login password [saved without encode]<br>
