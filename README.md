@@ -10,7 +10,7 @@ Fix Modern Standby<br>
 Change font size with CTRL[Shift]+MOUSEWHEEL<br>
 Portable Mode [Options: -export-to-ini \ -export-to-reg]<br>
 
-better use together with WinSSHTerm!
+better use together with WinSSHTerm
 https://winsshterm.blogspot.com
 
 Original Putty:<br>
