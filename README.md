@@ -8,9 +8,7 @@ Auto-login password [saved without encode]<br>
 Smooth scroll<br>
 Fix Modern Standby<br>
 Change font size with CTRL[Shift]+MOUSEWHEEL<br>
-
-Soon:<br>
-Portable Mode [putty -export-to-ini]<br>
+Portable Mode [Options: -export-to-ini \ -export-to-reg]<br>
 
 better use together with WinSSHTerm!
 https://winsshterm.blogspot.com
