@@ -9,7 +9,7 @@ Smooth scroll<br>
 Fix Modern Standby<br>
 Change font size with CTRL[Shift]+MOUSEWHEEL<br>
 
-[Soon:]
+[Soon:]<br>
 Portable Mode [putty -export-to-ini]<br>
 
 better use together with WinSSHTerm!
