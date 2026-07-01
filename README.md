@@ -20,3 +20,6 @@ https://github.com/ivanshatsky/putty4far2l<br>
 https://github.com/unxed/putty4far2l<br>
 https://github.com/cyd01/KiTTY<br>
 https://github.com/WinSSHTerm/PuTTY-WST<br>
+
+License:
+https://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html
