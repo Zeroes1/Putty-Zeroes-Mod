@@ -22,8 +22,9 @@ https://github.com/unxed/putty4far2l<br>
 https://github.com/cyd01/KiTTY<br>
 https://github.com/WinSSHTerm/PuTTY-WST<br>
 
-Warning: 
+<b>Warning: 
 The downside of this program compared to the original: our mod doesn't contain a digital signature (some Windows security tools may complain about a suspicious file because of this)
+</b>
 
 License:
 https://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html
